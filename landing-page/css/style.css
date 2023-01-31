@@ -1,0 +1,14 @@
+.image {
+    max-width: 100%;
+    height: auto;
+}
+
+.teamPhoto {
+    height: 10em;
+    width: 10em;
+    border-radius: 50%;
+}
+
+.formBackground {
+    background-image: url('../img/slider-1.jpg');
+}
