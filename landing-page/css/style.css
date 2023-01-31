@@ -1,14 +1,25 @@
+.menu {
+    justify-content: flex-end;
+}
+
 .image {
     max-width: 100%;
-    height: auto;
+    height: 100%;
 }
 
 .teamPhoto {
-    height: 10em;
-    width: 10em;
+    max-width: 200px;
+    max-height: 200px;
     border-radius: 50%;
+}
+
+.teamDescription {
+    max-width: 200px;
+    text-align: center;
+    margin: 0;
 }
 
 .formBackground {
     background-image: url('../img/slider-1.jpg');
+    justify-content: center;
 }
